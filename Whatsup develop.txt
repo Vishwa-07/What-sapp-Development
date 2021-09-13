@@ -9,3 +9,5 @@ Author:Vishwa
 3.Last seen
 
 4.Attachments
+
+Hiding the Last seen
